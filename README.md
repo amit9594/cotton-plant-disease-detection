@@ -1,4 +1,4 @@
-Train the data 
-Calculate accuracy
-Save the model
-Prediction
+--> Train the data 
+--> Calculate accuracy
+--> Save the model
+--> Prediction
